@@ -1,5 +1,7 @@
 ### Hi there 🚀
 
+Passionate developer with a lot of different ideas. Share yours, and I will share mine.
+
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&label=PROFILE+VIEWS)
 
 <!--
@@ -16,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
