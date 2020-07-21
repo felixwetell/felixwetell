@@ -2,6 +2,11 @@
 
 Passionate developer with a lot of different ideas. Share yours, and I will share mine.
 
+Current projects:
+- https://github.com/Linda-Carlstad/lindacarlstad.se
+- https://github.com/Linda-Carlstad/tentahub.se
+- https://github.com/RasmusBjorklund/haufpipe.com
+
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&label=PROFILE+VIEWS)
 
 <!--
