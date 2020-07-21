@@ -17,9 +17,8 @@ Passionate developer with a lot of different ideas. Share yours, and I will shar
 - MacBook Pro 13" 2019
 
 ### Favorite software
-- PHPStorm
+- JetBrains IDE's
 - Figma
-- Sequel Pro
 - Spotify (gotta have music)
 
 ### Music I Listen too:
