@@ -21,7 +21,7 @@ Passionate developer with a lot of different ideas. Share yours, and I will shar
 - Figma
 - Spotify (gotta have music)
 
-### Music I Listen too:
+### Music I like listening too:
 - Bring Me The Horizon
 - Bad Omens
 - Of Mice & Men
