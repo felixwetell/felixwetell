@@ -2,7 +2,7 @@
 
 Passionate developer with a lot of different ideas. Share yours, and I will share mine.
 
-[![](https://img.shields.io/badge/LinkedIn-Felix%20Wetell-blue)](https://www.linkedin.com/in/felixwetell/)
+[![](https://img.shields.io/badge/LinkedIn-Felix%20Wetell-blue)](https://www.linkedin.com/in/felix-wetell/)
 [![](https://img.shields.io/badge/Contact-hello%40felixmade.me-green)](mailto:hello@felixmade.me)
 [![](https://img.shields.io/badge/Website-felixmade.me-red)](https://felixmade.me)
 
