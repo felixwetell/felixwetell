@@ -1,9 +1,9 @@
 # Hi there 🚀
 
-Passionate developer with a lot of different ideas. Share yours, and I will share mine.
+Passionate developer with million ideas. Share love, show compassion and be kind to eachother. 
 
 [![](https://img.shields.io/badge/LinkedIn-Felix%20Wetell-blue)](https://www.linkedin.com/in/felix-wetell/)
-[![](https://img.shields.io/badge/Contact-hello%40felixmade.me-green)](mailto:hello@felixmade.me?subject=I%20saw%you%20on%20GitHub...)
+[![](https://img.shields.io/badge/Contact-hello%40felixmade.me-green)](mailto:hello@felixmade.me?subject=I%20saw%20your%20profile%20on%20GitHub...)
 [![](https://img.shields.io/badge/Website-felixmade.me-red)](https://felixmade.me)
 
 ### Active projects:
