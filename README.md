@@ -16,23 +16,6 @@ Passionate developer with million ideas. Share love, show compassion and be kind
 - CentOS (Linux)
 - Plesk
 
-### Hardware 
-- Digital Ocean Droplet running CentOS server with Plesk
-- MacBook Pro 13" 2019
-
-### Favorite software
-- JetBrains IDE's
-- Figma
-- Spotify (gotta have music)
-
-### Music I like listening too:
-- Bring Me The Horizon
-- Bad Omens
-- Of Mice & Men
-- Alesso
-- Lost Frequencies 
-- And more...
-
 ### Profile stats
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&label=Profile+views)
 
