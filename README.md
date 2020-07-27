@@ -17,7 +17,7 @@ Passionate developer with million ideas. Share love, show compassion and be kind
 - Plesk
 
 ### Profile stats
-![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&label=Profile+views)
+![](https://komarev.com/ghpvc/?username=felixwetell&color=brightgreen&label=Profile+views)
 [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=felixwetell)](https://github.com/felixwetell)
 
 ![felixwetell's stats](https://github-readme-stats.vercel.app/api?username=felixwetell&show_icons=true)
