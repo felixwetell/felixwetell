@@ -31,8 +31,10 @@ Passionate developer with million ideas. Share love, show compassion and be kind
 - Of Mice & Men
 - Alesso
 - Lost Frequencies 
-- Anr more...
+- And more...
 
 ### Profile stats
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&label=Profile+views)
+
+![felixwetell's stats](https://github-readme-stats.vercel.app/api?username=felixwetell&show_icons=true)
 
