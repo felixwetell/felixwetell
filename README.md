@@ -1,4 +1,4 @@
-# Hi there 🚀
+# Hello 🚀
 
 Passionate developer with million ideas. Share love, show compassion and be kind to eachother. 
 
