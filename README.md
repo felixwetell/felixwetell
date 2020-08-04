@@ -1,4 +1,4 @@
-# Hello 🚀
+# Hello, my name is Felix Wetell 🚀
 
 Passionate developer with million ideas. Share love, show compassion and be kind to eachother. 
 
