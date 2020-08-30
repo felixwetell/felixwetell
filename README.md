@@ -8,8 +8,7 @@ Passionate developer with million ideas. Share love, show compassion and be kind
 
 ### Active projects:
 - https://github.com/Linda-Carlstad/lindacarlstad.se
-- https://github.com/Linda-Carlstad/tentahub.se
-- https://github.com/felixmademe/felixmade.me
+- https://github.com/felixmademe/felixmade.me (redesign)
 - https://github.com/felixmademe/event.wetell.se
 
 ### Technologies/frameworks I am learning now:
