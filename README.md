@@ -10,9 +10,10 @@ Passionate developer with million ideas. Share love, show compassion and be kind
 - https://github.com/Linda-Carlstad/lindacarlstad.se
 - https://github.com/felixmademe/felixmade.me (redesign)
 - https://github.com/felixmademe/event.wetell.se
+- Secret project...
 
 ### Technologies/frameworks I am learning now:
-- Vue
+- Flutter
 - CentOS (Linux)
 - Plesk
 
