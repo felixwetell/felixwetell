@@ -14,7 +14,7 @@ Passionate developer with million ideas. Share love, show compassion and be kind
 
 ### Technologies/frameworks I am learning now:
 - Flutter
-- CentOS (Linux)
+- Vue
 - Plesk
 - Buidling a REST API
 
