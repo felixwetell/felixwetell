@@ -16,6 +16,7 @@ Passionate developer with million ideas. Share love, show compassion and be kind
 - Flutter
 - CentOS (Linux)
 - Plesk
+- Buidling a REST API
 
 ### Profile stats
 ![](https://komarev.com/ghpvc/?username=felixwetell&color=brightgreen&label=Profile+views)
