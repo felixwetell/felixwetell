@@ -21,5 +21,5 @@ Passionate developer with million ideas.
 ### Profile stats
 ![](https://komarev.com/ghpvc/?username=felixwetell&color=brightgreen&label=Profile+views)
 
-![felixwetell's stats](https://github-readme-stats.vercel.app/api?username=felixwetell&show_icons=true)
+![felixwetell's stats](https://github-readme-stats.vercel.app/api?username=felixwetell&show_icons=true&theme=merko)
 
