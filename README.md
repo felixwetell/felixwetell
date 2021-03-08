@@ -8,6 +8,7 @@ Passionate developer with million ideas.
 
 ### Active projects:
 - https://github.com/Linda-Carlstad/lindacarlstad.se
+- https://github.com/felixmademe/felixmade.me
 - Secret project...
 
 ### Technologies/frameworks I am learning now:
