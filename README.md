@@ -11,9 +11,8 @@ Passionate developer with million ideas.
 - https://github.com/felixmademe/felixmade.me
 - Secret project...
 
-### Technologies/frameworks I am learning now:
-- Flutter
-- Vue
+### Technologies/frameworks/tools I am learning now:
+- CentOS
 - Plesk
 - Buidling a REST API
 
