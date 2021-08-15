@@ -9,9 +9,8 @@ Proud owner of the company [felix made me](https://felixmade.me/), started 2019.
 [![](https://img.shields.io/badge/Website-felixmade.me-red)](https://felixmade.me)
 
 ### Active projects:
-- https://github.com/Linda-Carlstad/lindacarlstad.se
+- https://github.com/felixmademe/blog.wetell.se
 - https://github.com/felixmademe/felixmade.me
-- Secret project...
 
 ### Technologies/frameworks/tools I am learning now:
 - CentOS
