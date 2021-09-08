@@ -3,6 +3,7 @@
 Passionate developer with million ideas.
 
 Proud owner of the company [felix made me](https://felixmade.me/), started 2019.
+
 Developer at Kazoku!
 
 [![](https://img.shields.io/badge/LinkedIn-Felix%20Wetell-blue)](https://www.linkedin.com/in/felix-wetell/)
