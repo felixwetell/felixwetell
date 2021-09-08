@@ -13,9 +13,10 @@ Proud owner of the company [felix made me](https://felixmade.me/), started 2019.
 - https://github.com/felixmademe/felixmade.me
 
 ### Technologies/frameworks/tools I am learning now:
-- CentOS
-- Plesk
-- Buidling a REST API
+- C#
+- Blazor
+- Designing smart SPA's (Single-page-application)
+- Building REST API's
 
 ### Profile stats
 ![](https://komarev.com/ghpvc/?username=felixwetell&color=brightgreen&label=Profile+views)
