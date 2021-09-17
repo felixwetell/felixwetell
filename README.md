@@ -17,7 +17,7 @@ Developer at Kazoku!
 ### Technologies/frameworks/tools I am learning now:
 - C#
 - Blazor
-- Designing smart SPA's (Single-page-application)
+- Azure
 - Building REST API's
 
 ### Profile stats
