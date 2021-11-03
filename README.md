@@ -20,7 +20,7 @@ Developer at [Kazoku IT AB](https://www.kazoku.se/)!
 - Azure
 - Building REST API's
 
-### Profile stats
+## Profile stats
 ![](https://komarev.com/ghpvc/?username=felixwetell&color=brightgreen&label=Profile+views)
 
 ![felixwetell's stats](https://github-readme-stats.vercel.app/api?username=felixwetell&show_icons=true)
