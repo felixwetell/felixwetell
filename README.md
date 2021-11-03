@@ -10,11 +10,11 @@ Developer at [Kazoku IT AB](https://www.kazoku.se/)!
 [![](https://img.shields.io/badge/Contact-hello%40felixmade.me-green)](mailto:hello@felixmade.me?subject=I%20saw%20your%20profile%20on%20GitHub...)
 [![](https://img.shields.io/badge/Website-felixmade.me-red)](https://felixmade.me)
 
-### Active projects:
+## Active projects
 - https://github.com/felixmademe/blog.wetell.se
 - https://github.com/felixmademe/felixmade.me
 
-### Technologies/frameworks/tools I am learning now:
+## Technologies/frameworks/tools I am learning now
 - C#
 - Blazor
 - Azure
