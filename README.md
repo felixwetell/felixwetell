@@ -11,14 +11,11 @@ Developer at [Kazoku IT AB](https://www.kazoku.se/)!
 [![](https://img.shields.io/badge/Website-felixmade.me-red)](https://felixmade.me)
 
 ## Active projects
-- https://github.com/felixmademe/blog.wetell.se
-- https://github.com/felixmademe/felixmade.me
+- Trying out some ideas and developing packages
 
 ## Technologies/frameworks/tools I am learning now
-- C#
 - Blazor
 - Azure
-- Building REST API's
 
 ## Profile stats
 ![](https://komarev.com/ghpvc/?username=felixwetell&color=brightgreen&label=Profile+views)
